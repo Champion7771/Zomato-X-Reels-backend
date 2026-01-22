@@ -174,8 +174,6 @@ http://localhost:5000
 You can test APIs using:
 
 * Postman
-* Thunder Client
-* cURL
 
 ---
 
@@ -201,25 +199,3 @@ If someone says *“this is just Express + Mongo”*, they don’t understand ba
 * Recommendation algorithm
 * Microservices split (auth, orders, reels)
 * WebSockets for real-time updates
-
----
-
-## 👤 Author
-
-**Champion**
-Backend Developer (Node.js)
-
----
-
-### ⚠️ Brutal Reality Check
-
-If you **cannot explain every section of this README**, then you didn’t build the project properly.
-Fix that before interviews.
-
-If you want:
-
-* 🔥 interview questions from this project
-* 🔥 README customized for FAANG vs service-based companies
-* 🔥 exact resume bullet points
-
-Say the word.
