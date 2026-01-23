@@ -2,8 +2,6 @@ Zomato X Reels – Backend
 
 A scalable backend system that combines **food ordering features (like Zomato)** with **short-video / reels functionality**, built using **Node.js, Express, and MongoDB**.
 
-This project focuses on **real backend engineering concepts**, not toy CRUD apps.
-
 ---
 
 ##  Features
@@ -69,9 +67,6 @@ Zomato-X-Reels-backend/
 └── README.md
 ```
 
-This structure is **industry-standard** and scales well as the app grows.
-
----
 
 ##  API Overview (High Level)
 
@@ -119,9 +114,7 @@ This structure is **industry-standard** and scales well as the app grows.
 * **Separation of concerns**
 * **Error handling & validation**
 
-If you can explain *why* you used these, you’re already ahead of most interns.
 
----
 
 ##  Setup Instructions
 
@@ -166,13 +159,8 @@ http://localhost:5000
 
 You can test APIs using:
 
-* Postman
 
----
 
-##  Why This Project Matters
-
-This is **not a basic CRUD project**.
 
 It demonstrates:
 
@@ -181,9 +169,6 @@ It demonstrates:
 * Auth, authorization, and scalability
 * Practical use of MongoDB beyond `.find()`
 
-If someone says *“this is just Express + Mongo”*, they don’t understand backend depth.
-
----
 
 ##  Future Improvements
 
